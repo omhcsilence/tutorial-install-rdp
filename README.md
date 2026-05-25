@@ -1,6 +1,4 @@
 
-
-```markdown
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=650&lines=Panduan+Install+XRDP+di+VPS+Ubuntu;Remote+Desktop+Mudah+dan+Cepat!;Dari+Terminal+ke+Desktop+GUI+%F0%9F%96%A5%EF%B8%8F" alt="Typing SVG" />
 </div>
