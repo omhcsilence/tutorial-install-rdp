@@ -1,4 +1,4 @@
-Tentu, ini adalah file `README.md` yang sudah diperbarui dengan tutorial menambahkan user baru, lengkap dengan animasi, warna, dan gaya font yang keren.
+
 
 ```markdown
 <div align="center">
